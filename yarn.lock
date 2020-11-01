@@ -12307,7 +12307,7 @@ neo-async@^2.5.0, neo-async@^2.6.1:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
-netlify-cms-app@^2.12.27:
+netlify-cms-app@^2.13.1:
   version "2.13.1"
   resolved "https://registry.yarnpkg.com/netlify-cms-app/-/netlify-cms-app-2.13.1.tgz#1f7e3221cf6d61aa3293921eb154e9ea96c79bb3"
   integrity sha512-OiIu+uT1nCHU4Ec7ATKieQBz+f57MAUQ96wLi0439vefoWoU1PshUOHaSCeCvRlakOmCgAXFT8k9ET5S2Nc2wA==
